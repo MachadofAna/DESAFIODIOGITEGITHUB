@@ -1,0 +1,31 @@
+CONCEITOS INICIAIS---------------------------
+Estrutura de dados é uma organizada de se organizar informações em um dispositivo que as armazene de forma que elas possam ser utilizadas depois.
+Algoritmos são utilizados para manipular dados.
+
+VETORES E MATRIZES--------------------------------------
+Admitem dados de um único tipo, auxiliam quando há muitas variáveis a serem declaradas.
+Os vetores são unidimensionais e  as matrizes são multidimensionais e são basicamente um vetor formado por outros vetores.
+
+O QUE SÃO REGISTROS -----------------------------
+Permitem armazenar mais de um tipo de dados, é composto por campos que especificam cada uma das informações que os compõe, toda estrutura de registro tem um nome que pode ser requerido pelo operador ponto.
+
+LISTAS -----------------------------------------------------------------------
+As listas são maleáveis e seu tamanho pode ser ajustado durante o trabalho enquanto que os arrays possuem tamanho fixo.
+As listas podem ser ligadas ou ligadas duplamente.
+
+Listas ligadas : na sua estrutura existem nós onde cada um dos nós conhece o próximo valor que está sendo armazenado (mas não o anterior).
+Listas ligadas duplamente: os dados conhecem o dado antes e depois dele.
+
+PILHAS---------------------------------------------------------
+São coleções de elementos e permite acesso a um item por vez.Podem ser acessados de duas formas LIFO ou FIFO.
+LIFO: last in first out.
+FIFO: first in firt out.
+
+ÁRVORES--------------------------------------------------------
+Estruturas onde os elementos são organizados de forma hierárquica onde existe o elemento do topo da árvore chamado de raiz e os elementos ligados chamados de folhas,  raiz é sempre o meio do vetor.
+
+TABELA HASH------------------------------------------------------------------------------------------------
+É uma tabela de dispersão ou espalhamento, é uma estrutura de dados que associa chaves de pesquisa a valores.
+HASHING: é uma generalização da ideia de array, usa uma função chamada hashing para espalhar os elementos fazendo com que os mesmos fiquem de forma não ordenada dentro do "array" que define a tabela.
+
+
